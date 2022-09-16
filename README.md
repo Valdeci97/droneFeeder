@@ -22,6 +22,8 @@ tais como latitude, longitude, data, horário da postagem, horário de retirada 
 
 Essas informações são armazenadas no banco de dados MySQL.
 
+Link para aplicação: [deploy](https://dronefeeder.herokuapp.com/delivery)
+
 # Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
