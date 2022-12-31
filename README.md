@@ -22,7 +22,7 @@ tais como latitude, longitude, data, horário da postagem, horário de retirada 
 
 Essas informações são armazenadas no banco de dados MySQL.
 
-Link para aplicação: [deploy](https://dronefeeder.herokuapp.com/swagger-ui/#)
+Link para aplicação: [deploy](https://odyeqmabpr.us16.qoddiapp.com/swagger-ui/#)
 
 # Tecnologias
 
